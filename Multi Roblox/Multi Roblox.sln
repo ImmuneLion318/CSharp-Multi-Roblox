@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi Roblox", "Multi Roblox\Multi Roblox.csproj", "{B5C2B551-1D62-46E7-A9F5-0F5B4A8A9EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C2B551-1D62-46E7-A9F5-0F5B4A8A9EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C2B551-1D62-46E7-A9F5-0F5B4A8A9EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C2B551-1D62-46E7-A9F5-0F5B4A8A9EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C2B551-1D62-46E7-A9F5-0F5B4A8A9EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB48D9D9-2607-40E9-8B87-F3EC1CA27577}
+	EndGlobalSection
+EndGlobal
